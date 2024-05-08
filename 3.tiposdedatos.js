@@ -12,3 +12,16 @@ let list = ["pimiento", "seitan", "tomate", "macarrones"] /* Esto es un ARRAY , 
 
 Si pongo un numero sin comillas entonces es un numero y se puede operar con el. */
 
+/* ARRAY DE OBJETOS */
+
+const pelota = {
+color = "azul"
+material: "plastico"
+precio: 8.5,
+resistente: true
+
+}
+
+const nulo = null;  /*  Existe pero no está */
+const nodefinido = undefined; /*  No existe */
+
